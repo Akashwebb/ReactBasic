@@ -1,0 +1,33 @@
+h1 {
+    color: blue;
+    text-align: center;
+    font-size: 30px;
+    font-weight: bolder;
+    }
+    
+
+button{
+    color: #27aedb;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    padding: 10px;
+    color:black;
+    font-weight: bolder;
+}
+button:hover{
+    background-color: green;
+}
+
+label{
+    font-size: larger;
+    font-weight: bolder;
+   
+}
+#main{
+    margin-left: 200px;
+    margin-right: 200px;
+    padding: 80px;
+    background-color: aquamarine;
+
+}

@@ -1,0 +1,12 @@
+.light{
+    background-color: aqua;
+    margin:5px;
+}
+.dark{
+    background-color: blue;
+    margin:5px
+}
+.red{
+    background-color: red;
+    margin:5px
+}
